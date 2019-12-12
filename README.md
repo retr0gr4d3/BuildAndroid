@@ -34,7 +34,7 @@ For reference of what will be cloned to your drive, see:
 5. [Google Vendor](https://github.com/themuppets/proprietary_vendor_google) (cloned to vendor/google)
 6. [Google Apps](https://gitlab.com/shagbag913/vendor_gapps) (cloned to vendor/gapps)
 7. [Audio](https://github.com/LineageOS/android_hardware_qcom_audio) (cloned to hardware/qcom/audio)
-8. [ipacfg-mgr](https://android.googlesource.com/platform/hardware/qcom/sdm845/data/ipacfg-mgr) (cloned to hardware/qcom/data/ipacfg-mgr)
+8. [SDM845 HALs](https://android.googlesource.com/platform/hardware/qcom/sdm845/data/ipacfg-mgr) (cloned to hardware/qcom/data/ipacfg-mgr)
 
 ## Recommended System Requirements <a name="RecSysReq"></a>
 

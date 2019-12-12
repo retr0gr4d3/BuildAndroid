@@ -14,9 +14,9 @@ A handy tool for those who either want to be a build bot, or those who want a ha
   - The be-all or end-all of Android ROM compilation.
 
 ### Table of Contents
-[Introduction](#Introduction)
-[Recommended System Requirements](#RecSysReq)
-[Enabling CCACHE](#EnableCCACHE)
+1. [Introduction](#Introduction)
+2. [Recommended System Requirements](#RecSysReq)
+3. [Enabling CCACHE](#EnableCCACHE)
 
 ## Introduction <a name="Introduction"></a>
 

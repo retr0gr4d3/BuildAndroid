@@ -26,7 +26,7 @@ BuildAndroid has been developed to teach people how to build android, while also
 
 For the sake of simplicity on my part, this script will build [LineageOS v17](https://lineageos.org/) (formally CyanogenMOD) from the repo located [here](https://github.com/lineageos). It will use the manifest branch `lineage-17.0` which is LOS's Android 10. It will try to stay as LineageOS based as possible, requiring 3rd party `trees` where necessary. The device it will build for is Blueline (Google Pixel 3). You may notice references to Crosshatch (Google Pixel 3 XL), this is because Blueline and Crosshatch are `unified trees`.
 
-For reference of what will be cloned to your drive, see:
+Sources:
 1. [Blueline Device Tree](https://github.com/LineageOS/android_device_google_blueline) (cloned to device/google/blueline)
 2. [Crosshatch Device Tree](https://github.com/LineageOS/android_device_google_crosshatch) (cloned to device/google/crosshatch)
 3. [Crosshatch-sepolicy](https://android.googlesource.com/device/google/crosshatch-sepolicy) (cloned to device/google/crosshatch-sepolicy)

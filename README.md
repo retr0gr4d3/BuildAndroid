@@ -12,9 +12,13 @@ A handy tool for those who either want to be a build bot, or those who want a ha
     - You will need to do some inital configuration. This means the process is not automatic from the word go. You can NOT just install Linux, run this script and expect it to compile Android. This README.md contains all the steps required to achieve a compilation.
   - An in-depth guide to mastering Android, and becoming a ROM wizard.
   - The be-all or end-all of Android ROM compilation.
-  
 
-## Introduction
+### Table of Contents
+[Introduction](#Introduction)
+[Recommended System Requirements](#RecSysReq)
+[Enabling CCACHE](#EnableCCACHE)
+
+## Introduction <a name="Introduction"></a>
 
 To keep things simple, I will refer to LineageOS as LOS in certain places.
 
@@ -22,7 +26,7 @@ BuildAndroid has been developed to teach people how to build android, while also
 
 For the sake of simplicity on my part, this script will build [LineageOS v17](https://lineageos.org/) (formally CyanogenMOD) from the repo located [here](https://github.com/lineageos). It will use the manifest branch `lineage-17.0` which is LOS's Android 10. It will try to stay as LineageOS based as possible, requiring 3rd party `trees` where necessary. The device it will build for is Blueline (Google Pixel 3). You may notice references to Crosshatch (Google Pixel 3 XL), this is because Blueline and Crosshatch are `unified trees`.
 
-## Recommended System Requirements
+## Recommended System Requirements <a name="RecSysReq"></a>
 
 * RAM
   - 16GB for new devices / Android 10.

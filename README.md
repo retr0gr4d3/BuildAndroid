@@ -20,7 +20,7 @@ To keep things simple, I will refer to LineageOS as LOS in certain places.
 
 BuildAndroid has been developed to teach people how to build android, while also doubling up as a simple script that can be edited, to automate the android build process.
 
-For the sake of simplicity on my part, this script will build [LineageOS v17](https://lineageos.org/) (formally CyanogenMOD) from the repo located [here](https://github.com/lineageos). It will use the manifest branch `lineage-17.0` which is LOS's Android 10. It will try to stay as LineageOS based as possible, requiring 3rd party `trees` where necessary. 
+For the sake of simplicity on my part, this script will build [LineageOS v17](https://lineageos.org/) (formally CyanogenMOD) from the repo located [here](https://github.com/lineageos). It will use the manifest branch `lineage-17.0` which is LOS's Android 10. It will try to stay as LineageOS based as possible, requiring 3rd party `trees` where necessary. The device it will build for is Blueline (Google Pixel 3). You may notice references to Crosshatch (Google Pixel 3 XL), this is because Blueline and Crosshatch are `unified trees`.
 
 ## Recommended System Requirements
 

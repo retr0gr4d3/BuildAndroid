@@ -27,14 +27,11 @@ For the sake of simplicity on my part, this script will build [LineageOS v17](ht
 * RAM
   - 16GB for new devices / Android 10.
   - 8GB for modern devices / Android 9.
-  
 * DISK SPACE
   - 200GB to be safe.
   - This is dependent on the amount of ROMs you are building. Head for around 200GB +- each ROM.
-  
 * CPU
   - MINIMUM quad core - that goes without saying. More cores = more threads = faster build times.
-  
 * SWAP
   - MINIMUM 30GB.
   

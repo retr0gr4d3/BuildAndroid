@@ -42,4 +42,4 @@ You should also ensure that CCACHE is enabled. CCACHE makes subsequent build tim
 
 ## Enabling CCACHE <a name="EnableCCACHE"></a>
 
-`export USE_CCACHE=1` and listen to some ketty dubstep init. Recommend Hecka Tight by Getter. Sick tune.
+`export USE_CCACHE=1` and listen to some music. If you like dubstep, I recommend [this playlist](https://open.spotify.com/playlist/5f3M8DsWZG5IuuOuu9ws3u?si=x1T0F25KR7KimbBNM0qA7w)

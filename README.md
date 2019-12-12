@@ -26,6 +26,16 @@ BuildAndroid has been developed to teach people how to build android, while also
 
 For the sake of simplicity on my part, this script will build [LineageOS v17](https://lineageos.org/) (formally CyanogenMOD) from the repo located [here](https://github.com/lineageos). It will use the manifest branch `lineage-17.0` which is LOS's Android 10. It will try to stay as LineageOS based as possible, requiring 3rd party `trees` where necessary. The device it will build for is Blueline (Google Pixel 3). You may notice references to Crosshatch (Google Pixel 3 XL), this is because Blueline and Crosshatch are `unified trees`.
 
+For reference of what will be cloned to your drive, see:
+1. [Blueline Device Tree](https://github.com/LineageOS/android_device_google_blueline) (cloned to device/google/blueline)
+2. [Crosshatch Device Tree](https://github.com/LineageOS/android_device_google_crosshatch) (cloned to device/google/crosshatch)
+3. [Crosshatch-sepolicy](https://android.googlesource.com/device/google/crosshatch-sepolicy) (cloned to device/google/crosshatch-sepolicy)
+4. [Kernel](https://github.com/LineageOS/android_kernel_google_msm-4.9) (cloned to kernel/google/msm-4.9)
+5. [Google Vendor](https://github.com/themuppets/proprietary_vendor_google) (cloned to vendor/google)
+6. [Google Apps](https://gitlab.com/shagbag913/vendor_gapps) (cloned to vendor/gapps)
+7. [Audio](https://github.com/LineageOS/android_hardware_qcom_audio) (cloned to hardware/qcom/audio)
+8. [ipacfg-mgr](https://android.googlesource.com/platform/hardware/qcom/sdm845/data/ipacfg-mgr) (cloned to hardware/qcom/data/ipacfg-mgr)
+
 ## Recommended System Requirements <a name="RecSysReq"></a>
 
 * RAM
